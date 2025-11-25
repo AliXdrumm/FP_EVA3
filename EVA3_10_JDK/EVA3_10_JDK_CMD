@@ -1,0 +1,42 @@
+Microsoft Windows [Versión 10.0.22631.6133]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\licce>cd--
+"cd--" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\licce>cd..
+
+C:\Users>cd..
+
+C:\>cd practicas
+
+C:\practicas>dir
+ El volumen de la unidad C es Windows
+ El número de serie del volumen es: 781E-095B
+
+ Directorio de C:\practicas
+
+14/11/2025  04:52 p. m.    <DIR>          .
+14/11/2025  04:52 p. m.               116 Prueba.java
+               1 archivos            116 bytes
+               1 dirs  877,995,216,896 bytes libres
+
+C:\practicas>javac Prueba.java
+
+C:\practicas>dir
+ El volumen de la unidad C es Windows
+ El número de serie del volumen es: 781E-095B
+
+ Directorio de C:\practicas
+
+24/11/2025  10:51 p. m.    <DIR>          .
+24/11/2025  10:51 p. m.               416 Prueba.class
+14/11/2025  04:52 p. m.               116 Prueba.java
+               2 archivos            532 bytes
+               1 dirs  877,945,470,976 bytes libres
+
+C:\practicas>java Prueba
+Hola mundo
+
+C:\practicas>
